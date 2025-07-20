@@ -1,0 +1,1 @@
+<h1>Python audioplayer written by me, first time using builder for QT libraries. Feeling good pretty easy to do anything when it works as a constructor just moving everything on screen and it looks perfect</h1>
